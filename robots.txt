@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ompablow.github.io/ompablow.txt.gz
+Sitemap: https://ompablow.github.io/app/ompablow.txt.gz
+Sitemap: https://ompablow.github.io/assets/ompablow.txt.gz
+Sitemap: https://ompablow.github.io/css/ompablow.txt.gz
+Sitemap: https://ompablow.github.io/includes/ompablow.txt.gz
+Sitemap: https://ompablow.github.io/item/ompablow.txt.gz
+Sitemap: https://ompablow.github.io/src/ompablow.txt.gz
